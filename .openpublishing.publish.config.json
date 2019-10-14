@@ -1,7 +1,7 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "azure-blockchain-workbenchV1-docs-rest-apis",
+      "docset_name": "blockchain-docs-rest-apis",
       "build_source_folder": ".",
       "build_output_subfolder": "azure",
       "locale": "en-us",
